@@ -1,0 +1,23 @@
+{
+  "name": "brasil-interativo",
+  "version": "1.0.0",
+  "description": "Mapa interativo do Brasil em SVG",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusDonizete/brasil-interativo.git"
+  },
+  "keywords": [
+    "SVG",
+    "JavaScript"
+  ],
+  "author": "Matheus Donizete <math.d@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusDonizete/brasil-interativo/issues"
+  },
+  "homepage": "https://github.com/MatheusDonizete/brasil-interativo#readme"
+}
